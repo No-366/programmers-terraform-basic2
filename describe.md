@@ -1,0 +1,1 @@
+- 49강, nginx proxy manager, redis, mysql, mysql 설정까지 한방에 끝내는 테라폼 프로젝트 

@@ -238,7 +238,7 @@ END_OF_FILE
 }
 
 # EC2 인스턴스 생성
-resource "aws_instance" "ec2_1" {
+resource "aws_instance" "ec2_3" {
   # 사용할 AMI ID
   ami = "ami-062cddb9d94dcf95d"
   # EC2 인스턴스 유형
